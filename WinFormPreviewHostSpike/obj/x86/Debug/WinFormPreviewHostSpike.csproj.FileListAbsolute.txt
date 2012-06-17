@@ -1,0 +1,9 @@
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\bin\Debug\WinFormPreviewHostSpike.exe
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\bin\Debug\WinFormPreviewHostSpike.pdb
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.Form1.resources
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.Properties.Resources.resources
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.exe
+C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.pdb

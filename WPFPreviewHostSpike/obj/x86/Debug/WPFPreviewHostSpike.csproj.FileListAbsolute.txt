@@ -1,0 +1,15 @@
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\bin\Debug\WPFPreviewHostSpike.exe
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\bin\Debug\WPFPreviewHostSpike.pdb
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\bin\Debug\WinFormPreviewHostSpike.exe
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\bin\Debug\WinFormPreviewHostSpike.pdb
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\MainWindow.baml
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\MainWindow.g.cs
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\App.g.cs
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\WPFPreviewHostSpike_MarkupCompile.cache
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\WPFPreviewHostSpike.g.resources
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\WPFPreviewHostSpike.Properties.Resources.resources
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\WPFPreviewHostSpike.exe
+C:\dev\WinFormPreviewHostSpike\WPFPreviewHostSpike\obj\x86\Debug\WPFPreviewHostSpike.pdb
