@@ -23,18 +23,9 @@ namespace WPFPreviewHostSpike
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = new MainWindowViewModel();
         }
 
-        private void button1_Click(object sender, RoutedEventArgs e)
-        {
-            var dialog = new OpenFileDialog();
-
-            var result = dialog.ShowDialog();
-
-            if(result == System.Windows.Forms.DialogResult.OK)
-            {
-                this.PreviewHandler.Open(dialog.FileName);
-            }
-        }
+       
     }
 }

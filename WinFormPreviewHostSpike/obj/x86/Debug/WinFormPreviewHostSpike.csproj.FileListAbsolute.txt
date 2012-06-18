@@ -7,3 +7,12 @@ C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\GenerateRes
 C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.exe
 C:\dev\WinFormPreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.pdb
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.exe
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.pdb
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.Form1.resources
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\WinFormPreviewHostSpike.Properties.Resources.resources
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\bin\Debug\WinFormPreviewHostSpike.exe
+C:\WorkspaceGitPublic\PreviewHostSpike\WinFormPreviewHostSpike\bin\Debug\WinFormPreviewHostSpike.pdb

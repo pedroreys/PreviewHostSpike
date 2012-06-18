@@ -2,15 +2,13 @@
 // Bradley Smith - 2010/06/15
 
 using System;
-//using System.Windows.Forms;
-using System.Windows.Forms.Design;
+using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Runtime.InteropServices.ComTypes;
 using Microsoft.Win32;
 using System.IO;
 using System.ComponentModel;
 using System.Drawing;
-using System.Drawing.Design;
 
 namespace WinFormPreviewHostSpike
 {
